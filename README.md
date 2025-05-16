@@ -1,6 +1,5 @@
-# **AI Driven Shrink-Wrapper **  
-
-## **📌 Project Overview**  
+# **AI Driven Shrink-Wrapper**  
+ 
 My aim in this project is to develop **predictive maintenance** tool for the **Vega shrink-wrapper**, a packaging machine used in the food and beverage industry. The machine groups bottles/cans, wraps them in plastic film, and heat-shrinks the film to form packages. A critical component is the **cutting blade**, which degrades over time but cannot be visually inspected during operation.  
 
 My goal is to:  
